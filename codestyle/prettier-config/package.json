@@ -1,0 +1,22 @@
+{
+  "name": "@mobstruct/prettier-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Oleksandr Soloviov <ooleksolo@gmail.com>",
+  "homepage": "https://github.com/mobstruct/core#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobstruct/core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mobstruct/core/issues"
+  },
+  "license": "MIT",
+  "main": ".prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.5.0"
+  }
+}
